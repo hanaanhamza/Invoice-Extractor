@@ -15,6 +15,8 @@ def process_folder(input_folder, output_folder):
             with open(output_path, "w", encoding='utf-8') as f:
                 json.dump(data, f, indent=4, ensure_ascii=False)  # Key changes here
             print(f"Saved: {output_path}")
+        else:
+            print(f"Error: Unsupported file type")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
