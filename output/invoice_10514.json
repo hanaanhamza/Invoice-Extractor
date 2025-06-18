@@ -1,0 +1,58 @@
+{
+    "invoice_meta": {
+        "order_id": "10514",
+        "customer_id": "ERNSH",
+        "order_date": "2017-04-22",
+        "total_price": "8623.45"
+    },
+    "customer_details": {
+        "contact_name": "Roland Mendel",
+        "phone": "7675-3425"
+    },
+    "items": [
+        {
+            "product_id": "20",
+            "product_name": "Sir Rodney's Marmalade",
+            "quantity": "39",
+            "unit_price": "81.0"
+        },
+        {
+            "product_id": "28",
+            "product_name": "Rössle Sauerkraut",
+            "quantity": "35",
+            "unit_price": "45.6"
+        },
+        {
+            "product_id": "56",
+            "product_name": "Gnocchi di nonna Alice",
+            "quantity": "70",
+            "unit_price": "38.0"
+        },
+        {
+            "product_id": "65",
+            "product_name": "Louisiana Fiery Hot Pepper Sauce",
+            "quantity": "39",
+            "unit_price": "21.05"
+        },
+        {
+            "product_id": "75",
+            "product_name": "Rhönbräu Klosterbier",
+            "quantity": "50",
+            "unit_price": "7.75"
+        }
+    ],
+    "nlp_metadata": {
+        "dates": [],
+        "people": [
+            "Roland Mendel",
+            "Rodney",
+            "Alice"
+        ],
+        "locations": [],
+        "emails": [],
+        "phones": [
+            "7675-3425",
+            "7675-3426"
+        ]
+    }
+}

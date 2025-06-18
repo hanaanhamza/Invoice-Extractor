@@ -1,0 +1,61 @@
+{
+    "invoice_meta": {
+        "order_id": "10893",
+        "customer_id": "KOENE",
+        "order_date": "2018-02-18",
+        "total_price": "5502.11"
+    },
+    "customer_details": {
+        "contact_name": "Philip Cramer",
+        "phone": "0555-09876"
+    },
+    "items": [
+        {
+            "product_id": "8",
+            "product_name": "Northwoods Cranberry Sauce",
+            "quantity": "30",
+            "unit_price": "40.0"
+        },
+        {
+            "product_id": "24",
+            "product_name": "Guaraná Fantástica",
+            "quantity": "10",
+            "unit_price": "4.5"
+        },
+        {
+            "product_id": "29",
+            "product_name": "Thüringer Rostbratwurst",
+            "quantity": "24",
+            "unit_price": "123.79"
+        },
+        {
+            "product_id": "30",
+            "product_name": "Nord-Ost Matjeshering",
+            "quantity": "35",
+            "unit_price": "25.89"
+        },
+        {
+            "product_id": "36",
+            "product_name": "Inlagd Sill",
+            "quantity": "20",
+            "unit_price": "19.0"
+        }
+    ],
+    "nlp_metadata": {
+        "dates": [
+            "10893",
+            "2018-02-18",
+            "14776"
+        ],
+        "people": [
+            "Philip Cramer",
+            "Maubelstr",
+            "Thüringer Rostbratwurst"
+        ],
+        "locations": [],
+        "emails": [],
+        "phones": [
+            "0555-09876"
+        ]
+    }
+}

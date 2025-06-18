@@ -1,0 +1,70 @@
+{
+    "invoice_meta": {
+        "order_id": "10979",
+        "customer_id": "ERNSH",
+        "order_date": "2018-03-26",
+        "total_price": "4813.5"
+    },
+    "customer_details": {
+        "contact_name": "Roland Mendel",
+        "phone": "7675-3425",
+        "city": "Vegie"
+    },
+    "items": [
+        {
+            "product_id": "7",
+            "product_name": "Uncle Bob's Organic Dried Pears",
+            "quantity": "18",
+            "unit_price": "30.0"
+        },
+        {
+            "product_id": "12",
+            "product_name": "Queso Manchego La Pastora",
+            "quantity": "20",
+            "unit_price": "38.0"
+        },
+        {
+            "product_id": "24",
+            "product_name": "Guaraná Fantástica",
+            "quantity": "80",
+            "unit_price": "4.5"
+        },
+        {
+            "product_id": "27",
+            "product_name": "Schoggi Schokolade",
+            "quantity": "30",
+            "unit_price": "43.9"
+        },
+        {
+            "product_id": "31",
+            "product_name": "Gorgonzola Telino",
+            "quantity": "24",
+            "unit_price": "12.5"
+        },
+        {
+            "product_id": "63",
+            "product_name": "Vegie-spread",
+            "quantity": "35",
+            "unit_price": "43.9"
+        }
+    ],
+    "nlp_metadata": {
+        "dates": [
+            "2018-03-26",
+            "80 4.5"
+        ],
+        "people": [
+            "Roland Mendel",
+            "Uncle Bob's",
+            "Schoggi"
+        ],
+        "locations": [
+            "Vegie"
+        ],
+        "emails": [],
+        "phones": [
+            "7675-3425",
+            "7675-3426"
+        ]
+    }
+}

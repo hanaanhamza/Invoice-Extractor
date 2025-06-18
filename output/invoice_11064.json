@@ -1,0 +1,63 @@
+{
+    "invoice_meta": {
+        "order_id": "11064",
+        "customer_id": "SAVEA",
+        "order_date": "2018-05-01",
+        "total_price": "4722.3"
+    },
+    "customer_details": {
+        "contact_name": "Jose Pavarotti",
+        "phone": "(208) 555-8097",
+        "city": "Perth"
+    },
+    "items": [
+        {
+            "product_id": "17",
+            "product_name": "Alice Mutton",
+            "quantity": "77",
+            "unit_price": "39.0"
+        },
+        {
+            "product_id": "41",
+            "product_name": "Jack's New England Clam Chowder",
+            "quantity": "12",
+            "unit_price": "9.65"
+        },
+        {
+            "product_id": "53",
+            "product_name": "Perth Pasties",
+            "quantity": "25",
+            "unit_price": "32.8"
+        },
+        {
+            "product_id": "55",
+            "product_name": "Pâté chinois",
+            "quantity": "4",
+            "unit_price": "24.0"
+        },
+        {
+            "product_id": "68",
+            "product_name": "Scottish Longbreads",
+            "quantity": "55",
+            "unit_price": "12.5"
+        }
+    ],
+    "nlp_metadata": {
+        "dates": [
+            "2018-05-01",
+            "83720"
+        ],
+        "people": [
+            "Jose Pavarotti",
+            "Alice Mutton",
+            "Jack"
+        ],
+        "locations": [
+            "Perth"
+        ],
+        "emails": [],
+        "phones": [
+            "(208) 555-8097"
+        ]
+    }
+}

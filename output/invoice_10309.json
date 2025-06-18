@@ -1,0 +1,59 @@
+{
+    "invoice_meta": {
+        "order_id": "10309",
+        "customer_id": "HUNGO",
+        "order_date": "2016-09-19",
+        "total_price": "1762.0"
+    },
+    "customer_details": {
+        "contact_name": "Patricia McKenna",
+        "phone": "2967 3333"
+    },
+    "items": [
+        {
+            "product_id": "4",
+            "product_name": "Chef Anton's Cajun Seasoning",
+            "quantity": "20",
+            "unit_price": "17.6"
+        },
+        {
+            "product_id": "6",
+            "product_name": "Grandma's Boysenberry Spread",
+            "quantity": "30",
+            "unit_price": "20.0"
+        },
+        {
+            "product_id": "42",
+            "product_name": "Singaporean Hokkien Fried Mee",
+            "quantity": "2",
+            "unit_price": "11.2"
+        },
+        {
+            "product_id": "43",
+            "product_name": "Ipoh Coffee",
+            "quantity": "20",
+            "unit_price": "36.8"
+        },
+        {
+            "product_id": "71",
+            "product_name": "Flotemysost",
+            "quantity": "3",
+            "unit_price": "17.2"
+        }
+    ],
+    "nlp_metadata": {
+        "dates": [
+            "10309",
+            "2016-09-19"
+        ],
+        "people": [
+            "Patricia McKenna",
+            "Grandma"
+        ],
+        "locations": [],
+        "emails": [],
+        "phones": [
+            "2967 3333"
+        ]
+    }
+}

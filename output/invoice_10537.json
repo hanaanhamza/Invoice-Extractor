@@ -1,0 +1,61 @@
+{
+    "invoice_meta": {
+        "order_id": "10537",
+        "customer_id": "RICSU",
+        "order_date": "2017-05-14",
+        "total_price": "1823.8"
+    },
+    "customer_details": {
+        "contact_name": "Michael Holz",
+        "phone": "0897-034214",
+        "city": "Switzerland"
+    },
+    "items": [
+        {
+            "product_id": "31",
+            "product_name": "Gorgonzola Telino",
+            "quantity": "30",
+            "unit_price": "12.5"
+        },
+        {
+            "product_id": "51",
+            "product_name": "Manjimup Dried Apples",
+            "quantity": "6",
+            "unit_price": "53.0"
+        },
+        {
+            "product_id": "58",
+            "product_name": "Escargots de Bourgogne",
+            "quantity": "20",
+            "unit_price": "13.25"
+        },
+        {
+            "product_id": "72",
+            "product_name": "Mozzarella di Giovanni",
+            "quantity": "21",
+            "unit_price": "34.8"
+        },
+        {
+            "product_id": "73",
+            "product_name": "Röd Kaviar",
+            "quantity": "9",
+            "unit_price": "15.0"
+        }
+    ],
+    "nlp_metadata": {
+        "dates": [
+            "0897-034214"
+        ],
+        "people": [
+            "Michael Holz",
+            "Mozzarella di Giovanni"
+        ],
+        "locations": [
+            "Switzerland"
+        ],
+        "emails": [],
+        "phones": [
+            "0897-034214"
+        ]
+    }
+}

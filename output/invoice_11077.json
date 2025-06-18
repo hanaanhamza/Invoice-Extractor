@@ -1,0 +1,179 @@
+{
+    "invoice_meta": {
+        "order_id": "11077",
+        "customer_id": "RATTC",
+        "order_date": "2018-05-06",
+        "total_price": "1374.6"
+    },
+    "customer_details": {
+        "contact_name": "Paula Wilson",
+        "phone": "(505) 555-5939"
+    },
+    "items": [
+        {
+            "product_id": "2",
+            "product_name": "Chang",
+            "quantity": "24",
+            "unit_price": "19.0"
+        },
+        {
+            "product_id": "3",
+            "product_name": "Aniseed Syrup",
+            "quantity": "4",
+            "unit_price": "10.0"
+        },
+        {
+            "product_id": "4",
+            "product_name": "Chef Anton's Cajun Seasoning",
+            "quantity": "1",
+            "unit_price": "22.0"
+        },
+        {
+            "product_id": "6",
+            "product_name": "Grandma's Boysenberry Spread",
+            "quantity": "1",
+            "unit_price": "25.0"
+        },
+        {
+            "product_id": "7",
+            "product_name": "Uncle Bob's Organic Dried Pears",
+            "quantity": "1",
+            "unit_price": "30.0"
+        },
+        {
+            "product_id": "8",
+            "product_name": "Northwoods Cranberry Sauce",
+            "quantity": "2",
+            "unit_price": "40.0"
+        },
+        {
+            "product_id": "10",
+            "product_name": "Ikura",
+            "quantity": "1",
+            "unit_price": "31.0"
+        },
+        {
+            "product_id": "12",
+            "product_name": "Queso Manchego La Pastora",
+            "quantity": "2",
+            "unit_price": "38.0"
+        },
+        {
+            "product_id": "13",
+            "product_name": "Konbu",
+            "quantity": "4",
+            "unit_price": "6.0"
+        },
+        {
+            "product_id": "14",
+            "product_name": "Tofu",
+            "quantity": "1",
+            "unit_price": "23.25"
+        },
+        {
+            "product_id": "16",
+            "product_name": "Pavlova",
+            "quantity": "2",
+            "unit_price": "17.45"
+        },
+        {
+            "product_id": "23",
+            "product_name": "Tunnbröd",
+            "quantity": "2",
+            "unit_price": "9.0"
+        },
+        {
+            "product_id": "32",
+            "product_name": "Mascarpone Fabioli",
+            "quantity": "1",
+            "unit_price": "32.0"
+        },
+        {
+            "product_id": "39",
+            "product_name": "Chartreuse verte",
+            "quantity": "2",
+            "unit_price": "18.0"
+        },
+        {
+            "product_id": "41",
+            "product_name": "Jack's New England Clam Chowder",
+            "quantity": "3",
+            "unit_price": "9.65"
+        },
+        {
+            "product_id": "46",
+            "product_name": "Spegesild",
+            "quantity": "3",
+            "unit_price": "12.0"
+        },
+        {
+            "product_id": "52",
+            "product_name": "Filo Mix",
+            "quantity": "2",
+            "unit_price": "7.0"
+        },
+        {
+            "product_id": "55",
+            "product_name": "Pâté chinois",
+            "quantity": "2",
+            "unit_price": "24.0"
+        },
+        {
+            "product_id": "60",
+            "product_name": "Camembert Pierrot",
+            "quantity": "2",
+            "unit_price": "34.0"
+        },
+        {
+            "product_id": "64",
+            "product_name": "Wimmers gute Semmelknödel",
+            "quantity": "2",
+            "unit_price": "33.25"
+        },
+        {
+            "product_id": "66",
+            "product_name": "Louisiana Hot Spiced Okra",
+            "quantity": "1",
+            "unit_price": "17.0"
+        },
+        {
+            "product_id": "73",
+            "product_name": "Röd Kaviar",
+            "quantity": "2",
+            "unit_price": "15.0"
+        },
+        {
+            "product_id": "75",
+            "product_name": "Rhönbräu Klosterbier",
+            "quantity": "4",
+            "unit_price": "7.75"
+        },
+        {
+            "product_id": "77",
+            "product_name": "Original Frankfurter grüne Soße",
+            "quantity": "2",
+            "unit_price": "13.0"
+        }
+    ],
+    "nlp_metadata": {
+        "dates": [
+            "2018-05-06",
+            "87110"
+        ],
+        "people": [
+            "Paula Wilson",
+            "2817 Milton",
+            "Grandma",
+            "Uncle Bob's",
+            "Rodney",
+            "Jack",
+            "Soße 2"
+        ],
+        "locations": [],
+        "emails": [],
+        "phones": [
+            "(505) 555-5939",
+            "(505) 555-3620"
+        ]
+    }
+}

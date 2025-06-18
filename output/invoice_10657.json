@@ -1,0 +1,67 @@
+{
+    "invoice_meta": {
+        "order_id": "10657",
+        "customer_id": "SAVEA",
+        "order_date": "2017-09-04",
+        "total_price": "4371.6"
+    },
+    "customer_details": {
+        "contact_name": "Jose Pavarotti",
+        "phone": "(208) 555-8097"
+    },
+    "items": [
+        {
+            "product_id": "15",
+            "product_name": "Genen Shouyu",
+            "quantity": "50",
+            "unit_price": "15.5"
+        },
+        {
+            "product_id": "41",
+            "product_name": "Jack's New England Clam Chowder",
+            "quantity": "24",
+            "unit_price": "9.65"
+        },
+        {
+            "product_id": "46",
+            "product_name": "Spegesild",
+            "quantity": "45",
+            "unit_price": "12.0"
+        },
+        {
+            "product_id": "47",
+            "product_name": "Zaanse koeken",
+            "quantity": "10",
+            "unit_price": "9.5"
+        },
+        {
+            "product_id": "56",
+            "product_name": "Gnocchi di nonna Alice",
+            "quantity": "45",
+            "unit_price": "38.0"
+        },
+        {
+            "product_id": "60",
+            "product_name": "Camembert Pierrot",
+            "quantity": "30",
+            "unit_price": "34.0"
+        }
+    ],
+    "nlp_metadata": {
+        "dates": [
+            "83720"
+        ],
+        "people": [
+            "Jose Pavarotti",
+            "Genen Shouyu",
+            "Jack",
+            "Zaanse",
+            "Alice"
+        ],
+        "locations": [],
+        "emails": [],
+        "phones": [
+            "(208) 555-8097"
+        ]
+    }
+}

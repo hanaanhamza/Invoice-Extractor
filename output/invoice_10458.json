@@ -1,0 +1,54 @@
+{
+    "invoice_meta": {
+        "order_id": "10458",
+        "customer_id": "SUPRD",
+        "order_date": "2017-02-26",
+        "total_price": "3891.0"
+    },
+    "customer_details": {
+        "contact_name": "Pascale Cartrain"
+    },
+    "items": [
+        {
+            "product_id": "26",
+            "product_name": "Gumbär Gummibärchen",
+            "quantity": "30",
+            "unit_price": "24.9"
+        },
+        {
+            "product_id": "28",
+            "product_name": "Rössle Sauerkraut",
+            "quantity": "30",
+            "unit_price": "36.4"
+        },
+        {
+            "product_id": "43",
+            "product_name": "Ipoh Coffee",
+            "quantity": "20",
+            "unit_price": "36.8"
+        },
+        {
+            "product_id": "56",
+            "product_name": "Gnocchi di nonna Alice",
+            "quantity": "15",
+            "unit_price": "30.4"
+        },
+        {
+            "product_id": "71",
+            "product_name": "Flotemysost",
+            "quantity": "50",
+            "unit_price": "17.2"
+        }
+    ],
+    "nlp_metadata": {
+        "dates": [],
+        "people": [
+            "Pascale Cartrain",
+            "Boulevard Tirou",
+            "Alice"
+        ],
+        "locations": [],
+        "emails": [],
+        "phones": []
+    }
+}

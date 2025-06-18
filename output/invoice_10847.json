@@ -1,0 +1,66 @@
+{
+    "invoice_meta": {
+        "order_id": "10847",
+        "customer_id": "SAVEA",
+        "order_date": "2018-01-22",
+        "total_price": "6164.9"
+    },
+    "customer_details": {
+        "contact_name": "Jose Pavarotti",
+        "phone": "(208) 555-8097"
+    },
+    "items": [
+        {
+            "product_id": "1",
+            "product_name": "Chai",
+            "quantity": "80",
+            "unit_price": "18.0"
+        },
+        {
+            "product_id": "19",
+            "product_name": "Teatime Chocolate Biscuits",
+            "quantity": "12",
+            "unit_price": "9.2"
+        },
+        {
+            "product_id": "37",
+            "product_name": "Gravad lax",
+            "quantity": "60",
+            "unit_price": "26.0"
+        },
+        {
+            "product_id": "45",
+            "product_name": "Rogede sild",
+            "quantity": "36",
+            "unit_price": "9.5"
+        },
+        {
+            "product_id": "60",
+            "product_name": "Camembert Pierrot",
+            "quantity": "45",
+            "unit_price": "34.0"
+        },
+        {
+            "product_id": "71",
+            "product_name": "Flotemysost",
+            "quantity": "55",
+            "unit_price": "21.5"
+        }
+    ],
+    "nlp_metadata": {
+        "dates": [
+            "2018-01-22",
+            "83720",
+            "36 9.5"
+        ],
+        "people": [
+            "Jose Pavarotti",
+            "Gravad"
+        ],
+        "locations": [],
+        "emails": [],
+        "phones": [
+            "(208) 555-8097"
+        ]
+    }
+}
