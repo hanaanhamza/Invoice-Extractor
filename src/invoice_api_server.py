@@ -5,7 +5,6 @@ import os
 cwd = os.getcwd()
 app = Flask(__name__)
 
-# Configure Flask to properly handle Unicode in JSON responses
 app.config['JSON_AS_ASCII'] = False
 
 @app.route('/parse', methods=['POST'])
@@ -16,7 +15,6 @@ def parse():
     
     f = request.files['file']
     
-    # Basic validation
     if f.filename == '':
         return jsonify({'error': 'No file selected'}), 400
     
@@ -33,7 +31,6 @@ def parse():
         return jsonify(data)
     
     except Exception as e:
-        # Clean up file if it exists
         if 'input_file' in locals() and os.path.exists(input_file):
             os.remove(input_file)
         
