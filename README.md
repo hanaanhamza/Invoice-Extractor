@@ -24,7 +24,7 @@ A Python-based system for extracting structured data from PDF invoices.
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd invoice-extractor
+cd Invoice-Extractor
 ```
 
 2. Install dependencies:
