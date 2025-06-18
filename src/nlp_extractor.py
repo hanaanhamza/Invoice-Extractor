@@ -4,6 +4,7 @@ import re
 nlp = spacy.load("en_core_web_md")
 
 def clean_value(val):
+    '''Handles whitespaces and newlines'''
     return val.replace("\n", " ").strip()
 
 def extract_fields(text):
@@ -17,7 +18,6 @@ def extract_fields(text):
     }
 
     def clean_entity(text):
-        # Remove newlines, labels like 'Address', 'Phone', etc.
         text = text.replace("\n", " ").strip()
         text = re.sub(r"\b(Address|Phone|Email)\b", "", text, flags=re.IGNORECASE)
         return text.strip()

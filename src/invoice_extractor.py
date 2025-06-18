@@ -3,6 +3,7 @@ import re
 from nlp_extractor import extract_fields
 
 def extract_invoice_data(file_path):
+    '''Extracts relevant details from PDF invoice and returns as dict'''
     invoice_data = {
         "invoice_meta": {},
         "customer_details": {},

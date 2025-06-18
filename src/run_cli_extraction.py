@@ -1,9 +1,10 @@
 import os
 import json
 import argparse
-from invoice_extractor import extract_invoice_data  # Fixed import
+from invoice_extractor import extract_invoice_data 
 
 def process_folder(input_folder, output_folder):
+    '''Processes all PDF invoices in a folder and saves output JSONs by name'''
     os.makedirs(output_folder, exist_ok=True)
 
     for file in os.listdir(input_folder):
@@ -13,7 +14,7 @@ def process_folder(input_folder, output_folder):
 
             data = extract_invoice_data(input_path)
             with open(output_path, "w", encoding='utf-8') as f:
-                json.dump(data, f, indent=4, ensure_ascii=False)  # Key changes here
+                json.dump(data, f, indent=4, ensure_ascii=False) 
             print(f"Saved: {output_path}")
         else:
             print(f"Error: Unsupported file type")
